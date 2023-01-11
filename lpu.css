@@ -1,0 +1,48 @@
+#box{
+    border: 2px solid black;
+    /* border-width: 2px solid black; */
+    width:fit-content;
+    
+
+
+}
+ #box2{
+    /* border: 2px solid black;
+    /* border-width: 2px solid black; */
+    
+    
+   
+}
+.list{
+    text-align: left;
+}
+.fle{
+    display: flex;
+    flex-direction: row;
+}
+.vl{
+    height:1000px;
+   border-left: 1px solid rgb(235, 231, 231);
+}
+
+#affl{
+
+    display: flex;
+    flex-direction: left;
+}
+.topnav{
+   
+   display: flex;
+   float: right;
+   
+ 
+    
+
+}
+.main{
+    margin-left: 8px;
+}
+.school{
+    display: flex;
+    flex-direction: row;
+}
